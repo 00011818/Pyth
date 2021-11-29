@@ -17,4 +17,3 @@ stime=str(input())
 submission_date = []
 for i in input_time(stime):
     submission_date.append(i)
-print("Hello")
